@@ -1,0 +1,13 @@
+# Gradle dosyaları
+.gradle/
+build/
+
+# Local configuration dosyaları
+local.properties
+
+# IDE dosyaları
+.idea/
+
+# Yerel geçici dosyalar
+*.log
+*.bak
